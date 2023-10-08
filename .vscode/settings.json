@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/trinhdieu/csc207/junit-platform-console-standalone-1.10.0.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
